@@ -1,0 +1,15 @@
+.img{
+    filter: drop-shadow(10px 8px 6px rgb(230, 111, 111));
+    box-shadow: 10px 10px 10px rgb(228, 177, 177);
+    height: 400px;
+}
+.container{
+
+    position:absolute;
+    right: 500px;
+}
+
+body{
+
+    background-color: antiquewhite;
+}
